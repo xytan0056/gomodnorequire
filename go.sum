@@ -1,4 +1,2 @@
-github.com/xytan0056/depwithgen v0.0.0-20191129203314-a1ebc3249de3 h1:OTs07ifrhEM21JsB+1GJv+UjQfuY25I/0l+RXDnkQ20=
-github.com/xytan0056/depwithgen v0.0.0-20191129203314-a1ebc3249de3/go.mod h1:y8a7v9klL/JJ+QAYNUCw/+M4zmQjsQ7eS1Z40YjIY1I=
-github.com/xytan0056/depwithgen v0.0.0-20191129224513-751dfb6a7539 h1:5Yrch2r2qIV3nMDMAdpbovxo2xWHcgJmJUKonx7B94M=
-github.com/xytan0056/depwithoutgen v0.0.0-20191129230558-682cac05edff h1:RE/FHKOC9CYJD9n4ZmYbmhkGC5ktnaZm88uQk+m/qvs=
+github.com/xytan0056/depwithgen v0.0.0-20191130082457-b2fccb1bd689 h1:8kyMYZO1yAjBkHZc9EQ5JpUyyqXMzzOcqq6cY9OLD2E=
+github.com/xytan0056/depwithgen v0.0.0-20191130082457-b2fccb1bd689/go.mod h1:56lRZaxq4savYThG2gLOSVOroxX6ORv7Bluwx8jE+Dc=
